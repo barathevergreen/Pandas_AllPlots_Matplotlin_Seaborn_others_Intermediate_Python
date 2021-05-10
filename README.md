@@ -1,6 +1,7 @@
 # Pandas_AllPlots_Matplotlin_Seaborn_others_Intermediate_Python
 
 Pandas MatplotLib and Folium:
+
 1.Using Immigration to Canada from 1980 to 2013
 	1.Data Wrangling 
 	2.Line Plot - Diff types - Year vs Country vs Count
