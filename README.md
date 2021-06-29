@@ -36,4 +36,4 @@ Pandas MatplotLib and Folium: Using Immigration to Canada from 1980 to 2013
 12. Word Clouds(python based)
 	- Based on Count
 	- Based on Custom shapes
-13. Regression Plots - regplot using Seaborn!
+13. Regression Plots - regplot using Seaborn
